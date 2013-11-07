@@ -1,3 +1,7 @@
+----------
+v0.3 - Added content to scott.php
+----------
 v0.2 - Added substantial new features
 ----------
 These are release notes.
+----------
